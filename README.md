@@ -8,3 +8,4 @@
 * Alternatively, you can post to this [AtariAge thread](https://forums.atariage.com/topic/200118-images-generated-by-rastaconverter/) and it will eventually show up here.
 * If you want to add authors or NTSC labels to existing files, fork, and send a pull request, or open an issue.
 * To download the full archive, clone the repository or click on the green button that says Code and select download ZIP.
+* The original RastaConverter does not compile cleanly on Linux. A fork with fixes is [here](https://github.com/ivop/RastaConverter).

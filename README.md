@@ -9,3 +9,17 @@
 * If you want to add authors or NTSC labels to existing files, fork, and send a pull request, or open an issue.
 * To download the full archive, clone the repository or click on the green button that says Code and select download ZIP.
 * The original RastaConverter does not compile cleanly on Linux. A fork with fixes is [here](https://github.com/ivop/RastaConverter).
+
+### Statistics
+
+| Type | Number |
+| :--- | ---: |
+| Labelled | 1245 |
+| Unlabelled | 1039 |
+| Total | 2284 |
+
+| Type | Number |
+| :--- | ---: |
+| PAL | 2224 |
+| NTSC | 60 |
+| Total | 2284 |

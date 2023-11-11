@@ -1,0 +1,6 @@
+[![](MrFish_Frog_ntsc.png)](https://github.com/ivop/rc-archive/raw/master/MrFish/MrFish_Frog_ntsc.xex)
+[![](MrFish_Frog_pal.png)](https://github.com/ivop/rc-archive/raw/master/MrFish/MrFish_Frog_pal.xex)
+[![](mrfish,%20hamfrog2,%20ntsc%20(orange-red%20skin).png)](https://github.com/ivop/rc-archive/raw/master/MrFish/mrfish,%20hamfrog2,%20ntsc%20(orange-red%20skin).xex)
+[![](mrfish,%20hamfrog2,%20ntsc%20(red%20skin).png)](https://github.com/ivop/rc-archive/raw/master/MrFish/mrfish,%20hamfrog2,%20ntsc%20(red%20skin).xex)
+[![](mrfish,%20hamfrog2,%20ntsc.png)](https://github.com/ivop/rc-archive/raw/master/MrFish/mrfish,%20hamfrog2,%20ntsc.xex)
+[![](mrfish,%20hamfrog2,%20pal.png)](https://github.com/ivop/rc-archive/raw/master/MrFish/mrfish,%20hamfrog2,%20pal.xex)

@@ -12,14 +12,14 @@
 
 ### Statistics
 
-| Type | Number |
-| :--- | ---: |
-| Labelled | 1245 |
-| Unlabelled | 1039 |
-| Total | 2284 |
+| Type | Number | Percentage |
+| :--- | ---: | ---: |
+| Labelled | 1245 | 54.5% |
+| Unlabelled | 1039 | 45.5% |
+| Total | 2284 | 100% |
 
-| Type | Number |
-| :--- | ---: |
-| PAL | 2224 |
-| NTSC | 60 |
-| Total | 2284 |
+| Type | Number | Percentage |
+| :--- | ---: | ---: |
+| PAL | 2224 | 97.4% |
+| NTSC | 60 | 2.6% |
+| Total | 2284 | 100% |

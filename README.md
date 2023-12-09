@@ -14,8 +14,8 @@
 
 | Type | Number | Percentage |
 | :--- | ---: | ---: |
-| Labelled | 1245 | 54.5% |
-| Unlabelled | 1039 | 45.5% |
+| Labelled | 1268 | 55.5% |
+| Unlabelled | 1016 | 44.5% |
 | Total | 2284 | 100% |
 
 | Type | Number | Percentage |

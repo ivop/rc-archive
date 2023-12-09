@@ -6,7 +6,6 @@
 [![](RainforestCreek.png)](https://github.com/ivop/rc-archive/raw/master/R/RainforestCreek.xex)
 [![](Rakotzbrucke.png)](https://github.com/ivop/rc-archive/raw/master/R/Rakotzbrucke.xex)
 [![](Rayman.png)](https://github.com/ivop/rc-archive/raw/master/R/Rayman.xex)
-[![](RDJr.png)](https://github.com/ivop/rc-archive/raw/master/R/RDJr.xex)
 [![](Reavership.png)](https://github.com/ivop/rc-archive/raw/master/R/Reavership.xex)
 [![](Recognizers.png)](https://github.com/ivop/rc-archive/raw/master/R/Recognizers.xex)
 [![](RedConvertible.png)](https://github.com/ivop/rc-archive/raw/master/R/RedConvertible.xex)

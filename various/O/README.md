@@ -6,7 +6,6 @@
 [![](OldMilikovFarm.png)](https://github.com/ivop/rc-archive/raw/master/O/OldMilikovFarm.xex)
 [![](OnYour6Red5!.png)](https://github.com/ivop/rc-archive/raw/master/O/OnYour6Red5!.xex)
 [![](Opal970.png)](https://github.com/ivop/rc-archive/raw/master/O/Opal970.xex)
-[![](orange.png)](https://github.com/ivop/rc-archive/raw/master/O/orange.xex)
 [![](OrbsInSpace.png)](https://github.com/ivop/rc-archive/raw/master/O/OrbsInSpace.xex)
 [![](OUTATIME-FullControlImage.png)](https://github.com/ivop/rc-archive/raw/master/O/OUTATIME-FullControlImage.xex)
 [![](OUTATIME.png)](https://github.com/ivop/rc-archive/raw/master/O/OUTATIME.xex)

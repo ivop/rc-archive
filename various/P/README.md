@@ -33,5 +33,4 @@
 [![](PurpleBeach.png)](https://github.com/ivop/rc-archive/raw/master/P/PurpleBeach.xex)
 [![](PurpleMountainMajesty.png)](https://github.com/ivop/rc-archive/raw/master/P/PurpleMountainMajesty.xex)
 [![](purple_nurple.png)](https://github.com/ivop/rc-archive/raw/master/P/purple_nurple.xex)
-[![](PushOver.png)](https://github.com/ivop/rc-archive/raw/master/P/PushOver.xex)
 [![](putler.png)](https://github.com/ivop/rc-archive/raw/master/P/putler.xex)

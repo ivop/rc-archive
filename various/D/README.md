@@ -4,7 +4,6 @@
 [![](DarkMatterAndroid.png)](https://github.com/ivop/rc-archive/raw/master/D/DarkMatterAndroid.xex)
 [![](DarkMatterFive.png)](https://github.com/ivop/rc-archive/raw/master/D/DarkMatterFive.xex)
 [![](DarkReflections.png)](https://github.com/ivop/rc-archive/raw/master/D/DarkReflections.xex)
-[![](DarkSideOfTheMoon.png)](https://github.com/ivop/rc-archive/raw/master/D/DarkSideOfTheMoon.xex)
 [![](DarthRainbow.png)](https://github.com/ivop/rc-archive/raw/master/D/DarthRainbow.xex)
 [![](Dassault_Mercure_100.png)](https://github.com/ivop/rc-archive/raw/master/D/Dassault_Mercure_100.xex)
 [![](Dave2001b152.png)](https://github.com/ivop/rc-archive/raw/master/D/Dave2001b152.xex)

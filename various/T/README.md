@@ -41,7 +41,6 @@
 [![](TieSquadron1.png)](https://github.com/ivop/rc-archive/raw/master/T/TieSquadron1.xex)
 [![](TigerFamilyNTSC.png)](https://github.com/ivop/rc-archive/raw/master/T/TigerFamilyNTSC.xex)
 [![](TilehBinaryPlanets.png)](https://github.com/ivop/rc-archive/raw/master/T/TilehBinaryPlanets.xex)
-[![](TinMan.png)](https://github.com/ivop/rc-archive/raw/master/T/TinMan.xex)
 [![](ToBoldlyGo2.png)](https://github.com/ivop/rc-archive/raw/master/T/ToBoldlyGo2.xex)
 [![](ToBoldlyGo.png)](https://github.com/ivop/rc-archive/raw/master/T/ToBoldlyGo.xex)
 [![](toho_Godzilla.png)](https://github.com/ivop/rc-archive/raw/master/T/toho_Godzilla.xex)
